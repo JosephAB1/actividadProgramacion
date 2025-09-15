@@ -4,6 +4,8 @@
  */
 package test;
 
+import Joseph.SumaResta;
+
 /**
  *
  * @author joseph
@@ -15,6 +17,11 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+         SumaResta sumaResta = new SumaResta();
+         sumaResta.SumaResta();
     }
+    
+ 
+   
     
 }
